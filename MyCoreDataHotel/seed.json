@@ -1,0 +1,174 @@
+{
+    "Hotels": [
+    {
+                "name" : "Hyatt",
+                "location" : "San Fransico, Downtown",
+                "stars" : 4,
+                "rooms" : [
+                {
+                           "number" : 1000,
+                           "beds" : 1,
+                           "rate" : 5
+                },
+                {
+                           "number" : 1001,
+                           "beds" : 2,
+                           "rate" : 4
+                },
+                {
+                           "number" : 1002,
+                           "beds" : 3,
+                           "rate" : 3
+                },
+                
+                {
+                           "number" : 1003,
+                           "beds" : 2,
+                           "rate" : 4
+                },
+                
+                {
+                           "number" : 1004,
+                           "beds" : 3,
+                           "rate" : 4
+                }
+                ]
+    },
+                {
+                "name" : "Hilton",
+                "location" : "Embarcedero",
+                "stars" : 3,
+                "rooms" : [
+                           {
+                           "number" : 1301,
+                           "beds" : 2,
+                           "rate" : 3
+                           },
+                           {
+                           "number" : 1302,
+                           "beds" : 1,
+                           "rate" : 3
+                           },
+                           {
+                           "number" : 1303,
+                           "beds" : 2,
+                           "rate" : 3
+                           },
+                           
+                           {
+                           "number" : 1304,
+                           "beds" : 1,
+                           "rate" : 3
+                           },
+                           
+                           {
+                           "number" : 1305,
+                           "beds" : 2,
+                           "rate" : 3
+                           }
+                           ]
+                },
+                {
+                "name" : "Olympic Hotel",
+                "location" : "Seattle",
+                "stars" : 3,
+                "rooms" : [
+                           {
+                           "number" : 1201,
+                           "beds" : 2,
+                           "rate" : 5
+                           },
+                           {
+                           "number" : 1202,
+                           "beds" : 2,
+                           "rate" : 5
+                           },
+                           {
+                           "number" : 1203,
+                           "beds" : 2,
+                           "rate" : 5
+                           },
+                           
+                           {
+                           "number" : 1204,
+                           "beds" : 2,
+                           "rate" : 5
+                           },
+                           
+                           {
+                           "number" : 1205,
+                           "beds" : 2,
+                           "rate" : 5
+                           }
+                           ]
+                },
+               {
+               "name" : "Alexis",
+               "location" : "Seattle",
+               "stars" : 3,
+               "rooms" : [
+                          {
+                          "number" : 1201,
+                          "beds" : 2,
+                          "rate" : 5
+                          },
+                          {
+                          "number" : 1202,
+                          "beds" : 2,
+                          "rate" : 5
+                          },
+                          {
+                          "number" : 1203,
+                          "beds" : 2,
+                          "rate" : 5
+                          },
+
+                          {
+                          "number" : 1204,
+                          "beds" : 2,
+                          "rate" : 5
+                          },
+
+                          {
+                          "number" : 1205,
+                          "beds" : 2,
+                          "rate" : 5
+                          }
+                          ]
+               },
+                {
+                "name" : "Holiday Inn",
+                "location" : "Anywhere, USA",
+                "stars" : 1,
+                "rooms" : [
+                           {
+                           "number" : 10,
+                           "beds" : 2,
+                           "rate" : 1
+                           },
+                           {
+                           "number" : 20,
+                           "beds" : 2,
+                           "rate" : 1
+                           },
+                           {
+                           "number" : 30,
+                           "beds" : 2,
+                           "rate" : 1
+                           },
+                           
+                           {
+                           "number" : 40,
+                           "beds" : 2,
+                           "rate" : 1
+                           },
+                           
+                           {
+                           "number" : 50,
+                           "beds" : 2,
+                           "rate" : 2
+                           }
+                           ]
+                }
+    ]
+}
